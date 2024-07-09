@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Venkatesh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 
-
+Fast learner and eager to explore new technologies. Able to switch between perfectionism and pragmatism. Believer in agile software development, team work and Clean Code. Always questioning the status quo and wanting to improve. Able and willing to think outside the box.
 
 - 💬 Ask me about **React, Node**
 
